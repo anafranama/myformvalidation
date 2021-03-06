@@ -1,0 +1,11 @@
+.contenedor{
+    width: 80%;
+    
+}
+
+body{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+}
+
